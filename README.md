@@ -1,5 +1,5 @@
 # Go Project Example
-# Testing
+# Testing 2
 
 This is an example for Go project.
 
