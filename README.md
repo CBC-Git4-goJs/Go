@@ -1,5 +1,6 @@
 # Go Project Example
 # Testing 3
+# july/18
 
 This is an example for Go project.
 
