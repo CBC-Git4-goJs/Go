@@ -1,7 +1,7 @@
 # Go Project Example
 # Testing 3
 # july/18
-
+#july 19
 This is an example for Go project.
 
 The motivation behind this project is to learn and broaden my limited knowledge about programming, project design, concepts, algorithm, and especially, Go itself. In this project, I will try to implement business logic/flow into Go program for various use-cases.
